@@ -1,6 +1,5 @@
 import os, re
 
-
 def printData(data):
     phoneBook = []
     print(" ")
